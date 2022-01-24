@@ -1,0 +1,18 @@
+#cool{
+    color: black;
+}
+#heading1{
+    width: 100%;
+}
+#textbox{
+    width: 50%;
+}
+#can{
+    background-color: red;
+    box-shadow: 2px 2px rgb(223, 43, 73);
+    width: 400;
+    height: 300;   
+}
+body{
+    background-size: cover;
+}
